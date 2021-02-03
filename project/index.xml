@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Safiqul Islam</title>
+    <link>safiqul.github.io/project/</link>
+      <atom:link href="safiqul.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jul 2020 22:05:56 +0200</lastBuildDate>
+    <image>
+      <url>/safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>safiqul.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>OpenTCP</title>
+      <link>safiqul.github.io/project/tcp-in-udp/</link>
+      <pubDate>Sun, 26 Jul 2020 22:05:56 +0200</pubDate>
+      <guid>safiqul.github.io/project/tcp-in-udp/</guid>
+      <description>&lt;p&gt;I was the technical lead of this 1-year industry collaboration with Huawei that started on 1 August 2015.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EU FP7 RITE</title>
+      <link>safiqul.github.io/project/rite/</link>
+      <pubDate>Sun, 26 Jul 2020 22:05:20 +0200</pubDate>
+      <guid>safiqul.github.io/project/rite/</guid>
+      <description>&lt;p&gt;I was also a partipant of the EU FP7 RITE project (work package 1). RITE was funded by the European commission under the fp7-ICT programme. RITE proposes to remove the root causes of unnecessary latency over the Internet. Whilst time-of-flight delay is inevitable, greater delays can result from interactions between transport protocols and buffers. It is these that RITE will tackle.&lt;/p&gt;
+&lt;p&gt;For more information, see the 
+&lt;a href=&#34;https://riteproject.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official page of RITE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EU-Horizon 2020 - NEAT</title>
+      <link>safiqul.github.io/project/neat/</link>
+      <pubDate>Sun, 26 Jul 2020 22:01:01 +0200</pubDate>
+      <guid>safiqul.github.io/project/neat/</guid>
+      <description>&lt;p&gt;I was a Participant of EU-Horizon 2020 - NEAT (work packages 3 and 4). The NEAT project wants to achieve a complete redesign of the way in which Internet applications interact with the network. The goal is to allow network “services” offered to applications – such as reliability, low-delay communication or security – to be dynamically tailored based on application demands, current network conditions, hardware capabilities or local policies, and also to support the integration of new network functionality in an evolutionary fashion, without applications having to be rewritten.&lt;/p&gt;
+&lt;p&gt;My responsibilites were:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;worked with FLING, network measurement tool, and&lt;/li&gt;
+&lt;li&gt;TCP coupled congestion control coupling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more information, please visit the 
+&lt;a href=&#34;https://www.neat-project.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; official webpage of NEAT&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

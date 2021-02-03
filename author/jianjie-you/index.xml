@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jianjie You | Safiqul Islam</title>
+    <link>safiqul.github.io/author/jianjie-you/</link>
+      <atom:link href="safiqul.github.io/author/jianjie-you/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jianjie You</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Oct 2015 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jianjie You</title>
+      <link>safiqul.github.io/author/jianjie-you/</link>
+    </image>
+    
+    <item>
+      <title>The state of implementation of TCP control block interdependence</title>
+      <link>safiqul.github.io/publication/draft-tcbsharing/</link>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 +0200</pubDate>
+      <guid>safiqul.github.io/publication/draft-tcbsharing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

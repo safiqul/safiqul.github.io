@@ -1,0 +1,15 @@
+@article{9161279,
+ abstract = {Most Internet hosts today support multiple access technologies and network interfaces. Multipath transport protocols, like MPTCP, are being deployed (e.g., in smartphones), allowing transparent simultaneous use of multiple links. Besides providing increased resilience to link failures, multipath transports may better exploit available (aggregate) capacity across all interfaces. The safest way to ensure fairness is to assume that any subflows of a multipath end-to-end connection may share bottleneck links, but knowledge of non-shared bottlenecks could allow multipath senders to exploit more capacity without being unfair to other flows. The problem of reliably detecting the existence of (non)-shared bottlenecks is not trivial and is compounded by the fact that bottlenecks may change due to traffic dynamics. In this paper we focus on practical methods to reliably group flows that share, possibly dynamic, bottlenecks online and in a passive manner (i.e., without injecting measurement traffic). We introduce a novel dynamic clustering algorithm that we apply to update our previous shared bottleneck flow grouping (SBFG) method standardized by the IETF, based on delay statistics. We also adapt an offline SBFG method based on wavelet filters to enable it for online operation. These SBFG methods are evaluated by a simple testbed, rigorous simulation and real-world Internet experiments in a testbed comprised of multihomed hosts. Our results suggest that there is no clear winner, and selection of the “best” SBFG method will have to consider tradeoffs regarding accuracy, lag, and application requirements.},
+ author = {D. A. Hayes and M. Welzl and S. Ferlin and D. Ros and S. Islam},
+ doi = {10.1109/TNET.2020.3007346},
+ issn = {1558-2566},
+ journal = {IEEE/ACM Transactions on Networking},
+ keywords = {Internet;telecommunication network reliability;telecommunication traffic;transport protocols;network interfaces;multipath transport protocols;multipath transports;multipath end-to-end connection;share bottleneck links;nonshared bottlenecks;multipath senders;traffic dynamics;group flows;dynamic clustering algorithm;offline SBFG method;online operation;best SBFG method;network bottleneck;Internet hosts;multiple access technologies;bottleneck flow grouping method;Internet;Delays;Loss measurement;Heuristic algorithms;Clustering algorithms;IEEE transactions;Shared bottleneck detection;Internet congestion control;dynamic clustering;multipath congestion control},
+ month = {Oct},
+ number = {5},
+ pages = {2229-2242},
+ title = {Online Identification of Groups of Flows Sharing a Network Bottleneck},
+ volume = {28},
+ year = {2020}
+}
+

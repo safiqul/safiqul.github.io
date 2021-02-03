@@ -1,0 +1,27 @@
+@inproceedings{Safiqul:2019:ControlTCP,
+ abstract = {In multi-tenant datacenters, the hardware may be homogeneous but the
+traffic often is not. For instance, customers who pay an equal amount of
+money can get an unequal share of the bottleneck capacity when they do not
+open the same number of TCP connections. To address this problem, several
+recent proposals try to manipulate the traffic that TCP sends from the VMs.
+VCC and AC/DC are two new mechanisms that let the hypervisor control
+traffic by influencing the TCP receiver window (rwnd). This avoids changing
+the guest OS, but has limitations (it is not possible to make TCP increase
+its rate faster than it normally would). Seawall, on the other hand,
+completely rewrites TCP's congestion control, achieving fairness but
+requiring significant changes to both the hypervisor and the guest OS.
+There seems to be a need for a middle ground: a method to control TCP's
+sending rate without requiring a complete redesign of its congestion
+control. We introduce a minimally-invasive solution that is flexible enough
+to cater for needs ranging from weighted fairness in multi-tenant
+datacenters to potentially offering Internet-wide benefits from reduced
+inter-flow competition.},
+ address = {Honolulu, USA},
+ author = {Safiqul Islam and Michael Welzl and Stein Gjessing},
+ booktitle = {2019 Workshop on Computing, Networking and Communications (CNC) (CNC'19)},
+ days = {18},
+ title = {How to Control a TCP: Minimally-Invasive Congestion Management for
+Datacenters},
+ year = {2019}
+}
+

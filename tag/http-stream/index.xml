@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTTP Stream | Safiqul Islam</title>
+    <link>safiqul.github.io/tag/http-stream/</link>
+      <atom:link href="safiqul.github.io/tag/http-stream/index.xml" rel="self" type="application/rss+xml" />
+    <description>HTTP Stream</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2010 09:14:44 +0100</lastBuildDate>
+    <image>
+      <url>/safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>HTTP Stream</title>
+      <link>safiqul.github.io/tag/http-stream/</link>
+    </image>
+    
+    <item>
+      <title>A HTTP Streaming Video Server with Dynamic Advertisement Splicing</title>
+      <link>safiqul.github.io/publication/master-thesis/</link>
+      <pubDate>Mon, 01 Mar 2010 09:14:44 +0100</pubDate>
+      <guid>safiqul.github.io/publication/master-thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

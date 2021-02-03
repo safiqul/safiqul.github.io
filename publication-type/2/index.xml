@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Safiqul Islam</title>
+    <link>safiqul.github.io/publication-type/2/</link>
+      <atom:link href="safiqul.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>safiqul.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Transport Services: A Modern API for an Adaptive Internet Transport Layer</title>
+      <link>safiqul.github.io/publication/taps-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0100</pubDate>
+      <guid>safiqul.github.io/publication/taps-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Identification of Groups of Flows Sharing a Network Bottleneck</title>
+      <link>safiqul.github.io/publication/9161279/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0200</pubDate>
+      <guid>safiqul.github.io/publication/9161279/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the utility of unregulated IP DiffServ Code Point (DSCP) usage by end systems</title>
+      <link>safiqul.github.io/publication/barik-2019102036/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>safiqul.github.io/publication/barik-2019102036/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupled Congestion Control for RTP Media</title>
+      <link>safiqul.github.io/publication/safiqul-2014-ccc-ccr/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>safiqul.github.io/publication/safiqul-2014-ccc-ccr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hierarchical Overlay Design for Peer to Peer and SIP Integration</title>
+      <link>safiqul.github.io/publication/sip-2011/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0200</pubDate>
+      <guid>safiqul.github.io/publication/sip-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly intrusion detection system in wireless sensor networks: security threats and existing approaches</title>
+      <link>safiqul.github.io/publication/islam-2011-anomaly/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      <guid>safiqul.github.io/publication/islam-2011-anomaly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hierarchical Intrusion Detection System in Wireless Sensor Networks</title>
+      <link>safiqul.github.io/publication/ids-2010/</link>
+      <pubDate>Sun, 08 Aug 2010 00:00:00 +0200</pubDate>
+      <guid>safiqul.github.io/publication/ids-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Safiqul Islam</title>
+    <link>safiqul.github.io/post/</link>
+      <atom:link href="safiqul.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jul 2020 13:33:52 +0200</lastBuildDate>
+    <image>
+      <url>/safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>safiqul.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Adding pie in ns2.35</title>
+      <link>safiqul.github.io/post/adding-pie/</link>
+      <pubDate>Tue, 28 Jul 2020 13:33:52 +0200</pubDate>
+      <guid>safiqul.github.io/post/adding-pie/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Either copy related “QUEUE/PIE” related settings to your ns-default file or replace your ns-default.tcl file with the attached [ns-default.tcl] (/ns2/ns-default.tcl).&lt;/li&gt;
+&lt;li&gt;Put [pie.cc] (/ns2/pie.cc) and [pie.h] (/ns2/pie.h) file in ns-2.35/queue folder. you need to add [docsislink.cc] (/ns2/docsislink.cc) and [docsislink.h] (/ns2/docsislink.h) as well otherwise it will not compile.&lt;/li&gt;
+&lt;li&gt;You have to add the following in your Makefile:
+queue/pie.o queue/docsislink.o&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
