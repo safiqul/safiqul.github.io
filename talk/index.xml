@@ -2,157 +2,157 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Safiqul Islam</title>
-    <link>safiqul.github.io/talk/</link>
-      <atom:link href="safiqul.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://safiqul.github.io/talk/</link>
+      <atom:link href="https://safiqul.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>safiqul.github.io/talk/</link>
+      <link>https://safiqul.github.io/talk/</link>
     </image>
     
     <item>
       <title>Performance Evaluation of In-network Packet Retransmissions using Markov Chains</title>
-      <link>safiqul.github.io/talk/icnc2020/</link>
+      <link>https://safiqul.github.io/talk/icnc2020/</link>
       <pubDate>Mon, 17 Feb 2020 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/talk/icnc2020/</guid>
+      <guid>https://safiqul.github.io/talk/icnc2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Control a TCP Minimally-Invasive Congestion Management for Datacenters</title>
-      <link>safiqul.github.io/talk/icnc2019/</link>
+      <link>https://safiqul.github.io/talk/icnc2019/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/talk/icnc2019/</guid>
+      <guid>https://safiqul.github.io/talk/icnc2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lightweight and Flexible Single-Path Congestion Control Coupling</title>
-      <link>safiqul.github.io/talk/noms-2018/</link>
+      <link>https://safiqul.github.io/talk/noms-2018/</link>
       <pubDate>Thu, 26 Apr 2018 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/noms-2018/</guid>
+      <guid>https://safiqul.github.io/talk/noms-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed Ledgers and their application to Internet Protocols</title>
-      <link>safiqul.github.io/talk/phd-trial-lecture/</link>
+      <link>https://safiqul.github.io/talk/phd-trial-lecture/</link>
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/phd-trial-lecture/</guid>
+      <guid>https://safiqul.github.io/talk/phd-trial-lecture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lightweight and Flexible Single-Path Congestion Control Coupling</title>
-      <link>safiqul.github.io/talk/phd-def/</link>
+      <link>https://safiqul.github.io/talk/phd-def/</link>
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/phd-def/</guid>
+      <guid>https://safiqul.github.io/talk/phd-def/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TCB Control Block Sharing: 2140bis</title>
-      <link>safiqul.github.io/talk/ietf99-tcpm/</link>
+      <link>https://safiqul.github.io/talk/ietf99-tcpm/</link>
       <pubDate>Fri, 17 Feb 2017 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/talk/ietf99-tcpm/</guid>
+      <guid>https://safiqul.github.io/talk/ietf99-tcpm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TCP-CCC: single-path TCP congestion control coupling </title>
-      <link>safiqul.github.io/talk/ietf97-iccrg/</link>
+      <link>https://safiqul.github.io/talk/ietf97-iccrg/</link>
       <pubDate>Tue, 15 Nov 2016 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/talk/ietf97-iccrg/</guid>
+      <guid>https://safiqul.github.io/talk/ietf97-iccrg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenTCP: Combining Congestion Controls of Parallel TCP Connections</title>
-      <link>safiqul.github.io/talk/imcec-2016/</link>
+      <link>https://safiqul.github.io/talk/imcec-2016/</link>
       <pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/imcec-2016/</guid>
+      <guid>https://safiqul.github.io/talk/imcec-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Start Me Up: Determining and Sharing TCP&#39;s Initial Congestion Window</title>
-      <link>safiqul.github.io/talk/anrw-2016/</link>
+      <link>https://safiqul.github.io/talk/anrw-2016/</link>
       <pubDate>Sat, 16 Jul 2016 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/anrw-2016/</guid>
+      <guid>https://safiqul.github.io/talk/anrw-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Managing Real-Time Media Flows through a Flow State Exchange</title>
-      <link>safiqul.github.io/talk/noms-2016/</link>
+      <link>https://safiqul.github.io/talk/noms-2016/</link>
       <pubDate>Tue, 26 Apr 2016 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/noms-2016/</guid>
+      <guid>https://safiqul.github.io/talk/noms-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Updates on Coupled Congestion Control for RTP Media (draft-ietf-rmcat-coupled-cc-01)</title>
-      <link>safiqul.github.io/talk/ietf95-rmcat/</link>
+      <link>https://safiqul.github.io/talk/ietf95-rmcat/</link>
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/ietf95-rmcat/</guid>
+      <guid>https://safiqul.github.io/talk/ietf95-rmcat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Updates on Coupled Congestion Control for RTP Media (draft-ietf-rmcat-coupled-cc-00)</title>
-      <link>safiqul.github.io/talk/ietf94-rmcat/</link>
+      <link>https://safiqul.github.io/talk/ietf94-rmcat/</link>
       <pubDate>Fri, 06 Nov 2015 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/talk/ietf94-rmcat/</guid>
+      <guid>https://safiqul.github.io/talk/ietf94-rmcat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TCB sharing: RFC 2140 vs. reality (draft-welzl-tcpm-tcb-sharing)</title>
-      <link>safiqul.github.io/talk/ietf94-tcpm/</link>
+      <link>https://safiqul.github.io/talk/ietf94-tcpm/</link>
       <pubDate>Thu, 05 Nov 2015 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/talk/ietf94-tcpm/</guid>
+      <guid>https://safiqul.github.io/talk/ietf94-tcpm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Updates on Coupled Congestion Control for RTP Media (draft-welzl-rmcat-coupled-cc-05)</title>
-      <link>safiqul.github.io/talk/ietf93-rmcat/</link>
+      <link>https://safiqul.github.io/talk/ietf93-rmcat/</link>
       <pubDate>Mon, 20 Jul 2015 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/ietf93-rmcat/</guid>
+      <guid>https://safiqul.github.io/talk/ietf93-rmcat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Updates on Coupled Congestion Control for RTP Media (draft-welzl-rmcat-coupled-cc-04)</title>
-      <link>safiqul.github.io/talk/ietf91-rmcat/</link>
+      <link>https://safiqul.github.io/talk/ietf91-rmcat/</link>
       <pubDate>Wed, 12 Nov 2014 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/talk/ietf91-rmcat/</guid>
+      <guid>https://safiqul.github.io/talk/ietf91-rmcat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coupled Congestion Control for RTP Media</title>
-      <link>safiqul.github.io/talk/csws-2014/</link>
+      <link>https://safiqul.github.io/talk/csws-2014/</link>
       <pubDate>Mon, 18 Aug 2014 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/csws-2014/</guid>
+      <guid>https://safiqul.github.io/talk/csws-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Updates on Coupled Congestion Control for RTP Media</title>
-      <link>safiqul.github.io/talk/ietf87-rmcat/</link>
+      <link>https://safiqul.github.io/talk/ietf87-rmcat/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/ietf87-rmcat/</guid>
+      <guid>https://safiqul.github.io/talk/ietf87-rmcat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A HTTP Streaming Video Server with Dynamic Advertisement Splicing</title>
-      <link>safiqul.github.io/talk/master-thesis/</link>
+      <link>https://safiqul.github.io/talk/master-thesis/</link>
       <pubDate>Sun, 28 Mar 2010 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/talk/master-thesis/</guid>
+      <guid>https://safiqul.github.io/talk/master-thesis/</guid>
       <description></description>
     </item>
     

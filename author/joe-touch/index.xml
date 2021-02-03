@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joe Touch | Safiqul Islam</title>
-    <link>safiqul.github.io/author/joe-touch/</link>
-      <atom:link href="safiqul.github.io/author/joe-touch/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://safiqul.github.io/author/joe-touch/</link>
+      <atom:link href="https://safiqul.github.io/author/joe-touch/index.xml" rel="self" type="application/rss+xml" />
     <description>Joe Touch</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Joe Touch</title>
-      <link>safiqul.github.io/author/joe-touch/</link>
+      <link>https://safiqul.github.io/author/joe-touch/</link>
     </image>
     
     <item>
       <title>TCP Control Block Interdependence</title>
-      <link>safiqul.github.io/publication/draft-2140bis/</link>
+      <link>https://safiqul.github.io/publication/draft-2140bis/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/draft-2140bis/</guid>
+      <guid>https://safiqul.github.io/publication/draft-2140bis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The state of implementation of TCP control block interdependence</title>
-      <link>safiqul.github.io/publication/draft-tcbsharing/</link>
+      <link>https://safiqul.github.io/publication/draft-tcbsharing/</link>
       <pubDate>Fri, 09 Oct 2015 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/publication/draft-tcbsharing/</guid>
+      <guid>https://safiqul.github.io/publication/draft-tcbsharing/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teachings | Safiqul Islam</title>
-    <link>safiqul.github.io/teaching/</link>
-      <atom:link href="safiqul.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://safiqul.github.io/teaching/</link>
+      <atom:link href="https://safiqul.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teachings</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jul 2020 22:05:56 +0200</lastBuildDate>
     <image>
-      <url>/safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Teachings</title>
-      <link>safiqul.github.io/teaching/</link>
+      <link>https://safiqul.github.io/teaching/</link>
     </image>
     
     <item>
       <title>Teaching</title>
-      <link>safiqul.github.io/teaching/teaching/</link>
+      <link>https://safiqul.github.io/teaching/teaching/</link>
       <pubDate>Sun, 26 Jul 2020 22:05:56 +0200</pubDate>
-      <guid>safiqul.github.io/teaching/teaching/</guid>
+      <guid>https://safiqul.github.io/teaching/teaching/</guid>
       <description>&lt;p&gt;I teach the following courses at the Department of Informatics, University of Oslo. All my courses have official course websites which you can navigate by clicking on the course codes, starting with &lt;em&gt;IN&lt;/em&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Supervision</title>
-      <link>safiqul.github.io/teaching/supervision/</link>
+      <link>https://safiqul.github.io/teaching/supervision/</link>
       <pubDate>Sun, 26 Jul 2020 22:01:01 +0200</pubDate>
-      <guid>safiqul.github.io/teaching/supervision/</guid>
+      <guid>https://safiqul.github.io/teaching/supervision/</guid>
       <description>&lt;p&gt;Currently, I&amp;rsquo;m supervising one PhD Student:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Alina Zhiltsove, cosupervised with Prof Michael Welzl and Prof Stephan Oepen:  Natural Language Processing applied to Internet protocol design&lt;/li&gt;

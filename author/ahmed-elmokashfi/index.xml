@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ahmed Elmokashfi | Safiqul Islam</title>
-    <link>safiqul.github.io/author/ahmed-elmokashfi/</link>
-      <atom:link href="safiqul.github.io/author/ahmed-elmokashfi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://safiqul.github.io/author/ahmed-elmokashfi/</link>
+      <atom:link href="https://safiqul.github.io/author/ahmed-elmokashfi/index.xml" rel="self" type="application/rss+xml" />
     <description>Ahmed Elmokashfi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Ahmed Elmokashfi</title>
-      <link>safiqul.github.io/author/ahmed-elmokashfi/</link>
+      <link>https://safiqul.github.io/author/ahmed-elmokashfi/</link>
     </image>
     
     <item>
       <title>On the utility of unregulated IP DiffServ Code Point (DSCP) usage by end systems</title>
-      <link>safiqul.github.io/publication/barik-2019102036/</link>
+      <link>https://safiqul.github.io/publication/barik-2019102036/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/barik-2019102036/</guid>
+      <guid>https://safiqul.github.io/publication/barik-2019102036/</guid>
       <description></description>
     </item>
     

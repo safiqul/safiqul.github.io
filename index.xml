@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Safiqul Islam</title>
-    <link>safiqul.github.io/</link>
-      <atom:link href="safiqul.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://safiqul.github.io/</link>
+      <atom:link href="https://safiqul.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Safiqul Islam</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Safiqul Islam</title>
-      <link>safiqul.github.io/</link>
+      <link>https://safiqul.github.io/</link>
     </image>
     
     <item>
       <title>Transport Services: A Modern API for an Adaptive Internet Transport Layer</title>
-      <link>safiqul.github.io/publication/taps-2021/</link>
+      <link>https://safiqul.github.io/publication/taps-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/taps-2021/</guid>
+      <guid>https://safiqul.github.io/publication/taps-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TCP Control Block Interdependence</title>
-      <link>safiqul.github.io/publication/draft-2140bis/</link>
+      <link>https://safiqul.github.io/publication/draft-2140bis/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/draft-2140bis/</guid>
+      <guid>https://safiqul.github.io/publication/draft-2140bis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online Identification of Groups of Flows Sharing a Network Bottleneck</title>
-      <link>safiqul.github.io/publication/9161279/</link>
+      <link>https://safiqul.github.io/publication/9161279/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/publication/9161279/</guid>
+      <guid>https://safiqul.github.io/publication/9161279/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adding pie in ns2.35</title>
-      <link>safiqul.github.io/post/adding-pie/</link>
+      <link>https://safiqul.github.io/post/adding-pie/</link>
       <pubDate>Tue, 28 Jul 2020 13:33:52 +0200</pubDate>
-      <guid>safiqul.github.io/post/adding-pie/</guid>
+      <guid>https://safiqul.github.io/post/adding-pie/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;Either copy related “QUEUE/PIE” related settings to your ns-default file or replace your ns-default.tcl file with the attached [ns-default.tcl] (/ns2/ns-default.tcl).&lt;/li&gt;
 &lt;li&gt;Put [pie.cc] (/ns2/pie.cc) and [pie.h] (/ns2/pie.h) file in ns-2.35/queue folder. you need to add [docsislink.cc] (/ns2/docsislink.cc) and [docsislink.h] (/ns2/docsislink.h) as well otherwise it will not compile.&lt;/li&gt;
@@ -52,18 +52,18 @@ queue/pie.o queue/docsislink.o&lt;/li&gt;
     
     <item>
       <title>OpenTCP</title>
-      <link>safiqul.github.io/project/tcp-in-udp/</link>
+      <link>https://safiqul.github.io/project/tcp-in-udp/</link>
       <pubDate>Sun, 26 Jul 2020 22:05:56 +0200</pubDate>
-      <guid>safiqul.github.io/project/tcp-in-udp/</guid>
+      <guid>https://safiqul.github.io/project/tcp-in-udp/</guid>
       <description>&lt;p&gt;I was the technical lead of this 1-year industry collaboration with Huawei that started on 1 August 2015.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>safiqul.github.io/teaching/teaching/</link>
+      <link>https://safiqul.github.io/teaching/teaching/</link>
       <pubDate>Sun, 26 Jul 2020 22:05:56 +0200</pubDate>
-      <guid>safiqul.github.io/teaching/teaching/</guid>
+      <guid>https://safiqul.github.io/teaching/teaching/</guid>
       <description>&lt;p&gt;I teach the following courses at the Department of Informatics, University of Oslo. All my courses have official course websites which you can navigate by clicking on the course codes, starting with &lt;em&gt;IN&lt;/em&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -82,9 +82,9 @@ queue/pie.o queue/docsislink.o&lt;/li&gt;
     
     <item>
       <title>EU FP7 RITE</title>
-      <link>safiqul.github.io/project/rite/</link>
+      <link>https://safiqul.github.io/project/rite/</link>
       <pubDate>Sun, 26 Jul 2020 22:05:20 +0200</pubDate>
-      <guid>safiqul.github.io/project/rite/</guid>
+      <guid>https://safiqul.github.io/project/rite/</guid>
       <description>&lt;p&gt;I was also a partipant of the EU FP7 RITE project (work package 1). RITE was funded by the European commission under the fp7-ICT programme. RITE proposes to remove the root causes of unnecessary latency over the Internet. Whilst time-of-flight delay is inevitable, greater delays can result from interactions between transport protocols and buffers. It is these that RITE will tackle.&lt;/p&gt;
 &lt;p&gt;For more information, see the 
 &lt;a href=&#34;https://riteproject.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official page of RITE&lt;/a&gt;&lt;/p&gt;
@@ -93,9 +93,9 @@ queue/pie.o queue/docsislink.o&lt;/li&gt;
     
     <item>
       <title>EU-Horizon 2020 - NEAT</title>
-      <link>safiqul.github.io/project/neat/</link>
+      <link>https://safiqul.github.io/project/neat/</link>
       <pubDate>Sun, 26 Jul 2020 22:01:01 +0200</pubDate>
-      <guid>safiqul.github.io/project/neat/</guid>
+      <guid>https://safiqul.github.io/project/neat/</guid>
       <description>&lt;p&gt;I was a Participant of EU-Horizon 2020 - NEAT (work packages 3 and 4). The NEAT project wants to achieve a complete redesign of the way in which Internet applications interact with the network. The goal is to allow network “services” offered to applications – such as reliability, low-delay communication or security – to be dynamically tailored based on application demands, current network conditions, hardware capabilities or local policies, and also to support the integration of new network functionality in an evolutionary fashion, without applications having to be rewritten.&lt;/p&gt;
 &lt;p&gt;My responsibilites were:&lt;/p&gt;
 &lt;ul&gt;
@@ -109,9 +109,9 @@ queue/pie.o queue/docsislink.o&lt;/li&gt;
     
     <item>
       <title>Supervision</title>
-      <link>safiqul.github.io/teaching/supervision/</link>
+      <link>https://safiqul.github.io/teaching/supervision/</link>
       <pubDate>Sun, 26 Jul 2020 22:01:01 +0200</pubDate>
-      <guid>safiqul.github.io/teaching/supervision/</guid>
+      <guid>https://safiqul.github.io/teaching/supervision/</guid>
       <description>&lt;p&gt;Currently, I&amp;rsquo;m supervising one PhD Student:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Alina Zhiltsove, cosupervised with Prof Michael Welzl and Prof Stephan Oepen:  Natural Language Processing applied to Internet protocol design&lt;/li&gt;
@@ -138,371 +138,371 @@ queue/pie.o queue/docsislink.o&lt;/li&gt;
     
     <item>
       <title>Performance Evaluation of In-network Packet Retransmissions using Markov Chains</title>
-      <link>safiqul.github.io/talk/icnc2020/</link>
+      <link>https://safiqul.github.io/talk/icnc2020/</link>
       <pubDate>Mon, 17 Feb 2020 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/talk/icnc2020/</guid>
+      <guid>https://safiqul.github.io/talk/icnc2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Follow the Model: How Recursive Networking Can Solve the Internet’s Congestion Control Problems</title>
-      <link>safiqul.github.io/publication/icnc-model-20/</link>
+      <link>https://safiqul.github.io/publication/icnc-model-20/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/icnc-model-20/</guid>
+      <guid>https://safiqul.github.io/publication/icnc-model-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance Evaluation of In-network Packet Retransmissions using Markov Chains</title>
-      <link>safiqul.github.io/publication/icnc-perfromance-20/</link>
+      <link>https://safiqul.github.io/publication/icnc-perfromance-20/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/icnc-perfromance-20/</guid>
+      <guid>https://safiqul.github.io/publication/icnc-perfromance-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coupled Congestion Control for RTP Media</title>
-      <link>safiqul.github.io/publication/rfc-8699/</link>
+      <link>https://safiqul.github.io/publication/rfc-8699/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/rfc-8699/</guid>
+      <guid>https://safiqul.github.io/publication/rfc-8699/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Control a TCP Minimally-Invasive Congestion Management for Datacenters</title>
-      <link>safiqul.github.io/talk/icnc2019/</link>
+      <link>https://safiqul.github.io/talk/icnc2019/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/talk/icnc2019/</guid>
+      <guid>https://safiqul.github.io/talk/icnc2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Control a TCP: Minimally-Invasive Congestion Management for Datacenters</title>
-      <link>safiqul.github.io/publication/safiqul-2019-control-tcp/</link>
+      <link>https://safiqul.github.io/publication/safiqul-2019-control-tcp/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/safiqul-2019-control-tcp/</guid>
+      <guid>https://safiqul.github.io/publication/safiqul-2019-control-tcp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating the Delay Impact of the DiffServ Code Point (DSCP)</title>
-      <link>safiqul.github.io/publication/safiqul-2019-dscp/</link>
+      <link>https://safiqul.github.io/publication/safiqul-2019-dscp/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/safiqul-2019-dscp/</guid>
+      <guid>https://safiqul.github.io/publication/safiqul-2019-dscp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the utility of unregulated IP DiffServ Code Point (DSCP) usage by end systems</title>
-      <link>safiqul.github.io/publication/barik-2019102036/</link>
+      <link>https://safiqul.github.io/publication/barik-2019102036/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/barik-2019102036/</guid>
+      <guid>https://safiqul.github.io/publication/barik-2019102036/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>safiqul.github.io/privacy/</link>
+      <link>https://safiqul.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/privacy/</guid>
+      <guid>https://safiqul.github.io/privacy/</guid>
       <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>safiqul.github.io/terms/</link>
+      <link>https://safiqul.github.io/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/terms/</guid>
+      <guid>https://safiqul.github.io/terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Lightweight and Flexible Single-Path Congestion Control Coupling</title>
-      <link>safiqul.github.io/talk/noms-2018/</link>
+      <link>https://safiqul.github.io/talk/noms-2018/</link>
       <pubDate>Thu, 26 Apr 2018 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/noms-2018/</guid>
+      <guid>https://safiqul.github.io/talk/noms-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ctrlTCP: Reducing latency through coupled, heterogeneous multi-flow TCP congestion control</title>
-      <link>safiqul.github.io/publication/safiqul-2018-ctrltcp/</link>
+      <link>https://safiqul.github.io/publication/safiqul-2018-ctrltcp/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/publication/safiqul-2018-ctrltcp/</guid>
+      <guid>https://safiqul.github.io/publication/safiqul-2018-ctrltcp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lightweight and flexible single-path congestion control coupling</title>
-      <link>safiqul.github.io/publication/safiqul-2018-noms/</link>
+      <link>https://safiqul.github.io/publication/safiqul-2018-noms/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/publication/safiqul-2018-noms/</guid>
+      <guid>https://safiqul.github.io/publication/safiqul-2018-noms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fling: A Flexible Ping for Middlebox Measurements</title>
-      <link>safiqul.github.io/publication/safiqul-2017-fling/</link>
+      <link>https://safiqul.github.io/publication/safiqul-2017-fling/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/publication/safiqul-2017-fling/</guid>
+      <guid>https://safiqul.github.io/publication/safiqul-2017-fling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lightweight and Flexible Single-Path Congestion Control Coupling</title>
-      <link>safiqul.github.io/publication/phd-thesis/</link>
+      <link>https://safiqul.github.io/publication/phd-thesis/</link>
       <pubDate>Mon, 03 Jul 2017 09:03:36 +0100</pubDate>
-      <guid>safiqul.github.io/publication/phd-thesis/</guid>
+      <guid>https://safiqul.github.io/publication/phd-thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed Ledgers and their application to Internet Protocols</title>
-      <link>safiqul.github.io/talk/phd-trial-lecture/</link>
+      <link>https://safiqul.github.io/talk/phd-trial-lecture/</link>
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/phd-trial-lecture/</guid>
+      <guid>https://safiqul.github.io/talk/phd-trial-lecture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lightweight and Flexible Single-Path Congestion Control Coupling</title>
-      <link>safiqul.github.io/talk/phd-def/</link>
+      <link>https://safiqul.github.io/talk/phd-def/</link>
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/phd-def/</guid>
+      <guid>https://safiqul.github.io/talk/phd-def/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TCB Control Block Sharing: 2140bis</title>
-      <link>safiqul.github.io/talk/ietf99-tcpm/</link>
+      <link>https://safiqul.github.io/talk/ietf99-tcpm/</link>
       <pubDate>Fri, 17 Feb 2017 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/talk/ietf99-tcpm/</guid>
+      <guid>https://safiqul.github.io/talk/ietf99-tcpm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-Path TCP Congestion Control Coupling</title>
-      <link>safiqul.github.io/publication/tech-report-2/</link>
+      <link>https://safiqul.github.io/publication/tech-report-2/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/tech-report-2/</guid>
+      <guid>https://safiqul.github.io/publication/tech-report-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TCP-CCC: single-path TCP congestion control coupling </title>
-      <link>safiqul.github.io/talk/ietf97-iccrg/</link>
+      <link>https://safiqul.github.io/talk/ietf97-iccrg/</link>
       <pubDate>Tue, 15 Nov 2016 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/talk/ietf97-iccrg/</guid>
+      <guid>https://safiqul.github.io/talk/ietf97-iccrg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenTCP: Combining Congestion Controls of Parallel TCP Connections</title>
-      <link>safiqul.github.io/talk/imcec-2016/</link>
+      <link>https://safiqul.github.io/talk/imcec-2016/</link>
       <pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/imcec-2016/</guid>
+      <guid>https://safiqul.github.io/talk/imcec-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenTCP: Combining congestion controls of parallel TCP connections</title>
-      <link>safiqul.github.io/publication/islam-2016-imcec/</link>
+      <link>https://safiqul.github.io/publication/islam-2016-imcec/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/publication/islam-2016-imcec/</guid>
+      <guid>https://safiqul.github.io/publication/islam-2016-imcec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Start Me Up: Determining and Sharing TCP&#39;s Initial Congestion Window</title>
-      <link>safiqul.github.io/talk/anrw-2016/</link>
+      <link>https://safiqul.github.io/talk/anrw-2016/</link>
       <pubDate>Sat, 16 Jul 2016 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/anrw-2016/</guid>
+      <guid>https://safiqul.github.io/talk/anrw-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Managing Real-Time Media Flows through a Flow State Exchange</title>
-      <link>safiqul.github.io/talk/noms-2016/</link>
+      <link>https://safiqul.github.io/talk/noms-2016/</link>
       <pubDate>Tue, 26 Apr 2016 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/noms-2016/</guid>
+      <guid>https://safiqul.github.io/talk/noms-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Updates on Coupled Congestion Control for RTP Media (draft-ietf-rmcat-coupled-cc-01)</title>
-      <link>safiqul.github.io/talk/ietf95-rmcat/</link>
+      <link>https://safiqul.github.io/talk/ietf95-rmcat/</link>
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/ietf95-rmcat/</guid>
+      <guid>https://safiqul.github.io/talk/ietf95-rmcat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Managing real-time media flows through a flow state exchange</title>
-      <link>safiqul.github.io/publication/safiqul-2016-noms/</link>
+      <link>https://safiqul.github.io/publication/safiqul-2016-noms/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/publication/safiqul-2016-noms/</guid>
+      <guid>https://safiqul.github.io/publication/safiqul-2016-noms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Start Me Up: Determining and Sharing TCP&#39;s Initial Congestion Window</title>
-      <link>safiqul.github.io/publication/islam-2016-smu-2959424-2959440/</link>
+      <link>https://safiqul.github.io/publication/islam-2016-smu-2959424-2959440/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/islam-2016-smu-2959424-2959440/</guid>
+      <guid>https://safiqul.github.io/publication/islam-2016-smu-2959424-2959440/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Updates on Coupled Congestion Control for RTP Media (draft-ietf-rmcat-coupled-cc-00)</title>
-      <link>safiqul.github.io/talk/ietf94-rmcat/</link>
+      <link>https://safiqul.github.io/talk/ietf94-rmcat/</link>
       <pubDate>Fri, 06 Nov 2015 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/talk/ietf94-rmcat/</guid>
+      <guid>https://safiqul.github.io/talk/ietf94-rmcat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TCB sharing: RFC 2140 vs. reality (draft-welzl-tcpm-tcb-sharing)</title>
-      <link>safiqul.github.io/talk/ietf94-tcpm/</link>
+      <link>https://safiqul.github.io/talk/ietf94-tcpm/</link>
       <pubDate>Thu, 05 Nov 2015 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/talk/ietf94-tcpm/</guid>
+      <guid>https://safiqul.github.io/talk/ietf94-tcpm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The state of implementation of TCP control block interdependence</title>
-      <link>safiqul.github.io/publication/draft-tcbsharing/</link>
+      <link>https://safiqul.github.io/publication/draft-tcbsharing/</link>
       <pubDate>Fri, 09 Oct 2015 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/publication/draft-tcbsharing/</guid>
+      <guid>https://safiqul.github.io/publication/draft-tcbsharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Updates on Coupled Congestion Control for RTP Media (draft-welzl-rmcat-coupled-cc-05)</title>
-      <link>safiqul.github.io/talk/ietf93-rmcat/</link>
+      <link>https://safiqul.github.io/talk/ietf93-rmcat/</link>
       <pubDate>Mon, 20 Jul 2015 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/ietf93-rmcat/</guid>
+      <guid>https://safiqul.github.io/talk/ietf93-rmcat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coupled Congestion Control for WebRTC</title>
-      <link>safiqul.github.io/publication/2015-eucnc/</link>
+      <link>https://safiqul.github.io/publication/2015-eucnc/</link>
       <pubDate>Tue, 30 Jun 2015 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/publication/2015-eucnc/</guid>
+      <guid>https://safiqul.github.io/publication/2015-eucnc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Updates on Coupled Congestion Control for RTP Media (draft-welzl-rmcat-coupled-cc-04)</title>
-      <link>safiqul.github.io/talk/ietf91-rmcat/</link>
+      <link>https://safiqul.github.io/talk/ietf91-rmcat/</link>
       <pubDate>Wed, 12 Nov 2014 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/talk/ietf91-rmcat/</guid>
+      <guid>https://safiqul.github.io/talk/ietf91-rmcat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coupled Congestion Control for RTP Media</title>
-      <link>safiqul.github.io/talk/csws-2014/</link>
+      <link>https://safiqul.github.io/talk/csws-2014/</link>
       <pubDate>Mon, 18 Aug 2014 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/csws-2014/</guid>
+      <guid>https://safiqul.github.io/talk/csws-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coupled Congestion Control for RTP Media</title>
-      <link>safiqul.github.io/publication/tech-report-1/</link>
+      <link>https://safiqul.github.io/publication/tech-report-1/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/tech-report-1/</guid>
+      <guid>https://safiqul.github.io/publication/tech-report-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coupled Congestion Control for RTP Media</title>
-      <link>safiqul.github.io/publication/safiqul-2014-ccc-capacitysharing/</link>
+      <link>https://safiqul.github.io/publication/safiqul-2014-ccc-capacitysharing/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/safiqul-2014-ccc-capacitysharing/</guid>
+      <guid>https://safiqul.github.io/publication/safiqul-2014-ccc-capacitysharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coupled Congestion Control for RTP Media</title>
-      <link>safiqul.github.io/publication/safiqul-2014-ccc-ccr/</link>
+      <link>https://safiqul.github.io/publication/safiqul-2014-ccc-ccr/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/safiqul-2014-ccc-ccr/</guid>
+      <guid>https://safiqul.github.io/publication/safiqul-2014-ccc-ccr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One Control to Rule Them All - Coupled Congestion Control for RTP Media</title>
-      <link>safiqul.github.io/publication/2013-pv/</link>
+      <link>https://safiqul.github.io/publication/2013-pv/</link>
       <pubDate>Fri, 13 Dec 2013 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/2013-pv/</guid>
+      <guid>https://safiqul.github.io/publication/2013-pv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Updates on Coupled Congestion Control for RTP Media</title>
-      <link>safiqul.github.io/talk/ietf87-rmcat/</link>
+      <link>https://safiqul.github.io/talk/ietf87-rmcat/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/talk/ietf87-rmcat/</guid>
+      <guid>https://safiqul.github.io/talk/ietf87-rmcat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Hierarchical Overlay Design for Peer to Peer and SIP Integration</title>
-      <link>safiqul.github.io/publication/sip-2011/</link>
+      <link>https://safiqul.github.io/publication/sip-2011/</link>
       <pubDate>Mon, 06 Jun 2011 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/publication/sip-2011/</guid>
+      <guid>https://safiqul.github.io/publication/sip-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SIP over Peer-to-Peer — Implications and existing approaches</title>
-      <link>safiqul.github.io/publication/islam-2011-p-2-psip/</link>
+      <link>https://safiqul.github.io/publication/islam-2011-p-2-psip/</link>
       <pubDate>Tue, 01 Mar 2011 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/islam-2011-p-2-psip/</guid>
+      <guid>https://safiqul.github.io/publication/islam-2011-p-2-psip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anomaly intrusion detection system in wireless sensor networks: security threats and existing approaches</title>
-      <link>safiqul.github.io/publication/islam-2011-anomaly/</link>
+      <link>https://safiqul.github.io/publication/islam-2011-anomaly/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/islam-2011-anomaly/</guid>
+      <guid>https://safiqul.github.io/publication/islam-2011-anomaly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Hierarchical Intrusion Detection System in Wireless Sensor Networks</title>
-      <link>safiqul.github.io/publication/ids-2010/</link>
+      <link>https://safiqul.github.io/publication/ids-2010/</link>
       <pubDate>Sun, 08 Aug 2010 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/publication/ids-2010/</guid>
+      <guid>https://safiqul.github.io/publication/ids-2010/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A HTTP Streaming Video Server with Dynamic Advertisement Splicing</title>
-      <link>safiqul.github.io/talk/master-thesis/</link>
+      <link>https://safiqul.github.io/talk/master-thesis/</link>
       <pubDate>Sun, 28 Mar 2010 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/talk/master-thesis/</guid>
+      <guid>https://safiqul.github.io/talk/master-thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A HTTP Streaming Video Server with Dynamic Advertisement Splicing</title>
-      <link>safiqul.github.io/publication/master-thesis/</link>
+      <link>https://safiqul.github.io/publication/master-thesis/</link>
       <pubDate>Mon, 01 Mar 2010 09:14:44 +0100</pubDate>
-      <guid>safiqul.github.io/publication/master-thesis/</guid>
+      <guid>https://safiqul.github.io/publication/master-thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Novel Overlay IDS for Wireless Sensor Networks</title>
-      <link>safiqul.github.io/publication/ids-2008/</link>
+      <link>https://safiqul.github.io/publication/ids-2008/</link>
       <pubDate>Tue, 22 Jul 2008 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/publication/ids-2008/</guid>
+      <guid>https://safiqul.github.io/publication/ids-2008/</guid>
       <description></description>
     </item>
     

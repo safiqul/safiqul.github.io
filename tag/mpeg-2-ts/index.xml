@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MPEG-2 TS | Safiqul Islam</title>
-    <link>safiqul.github.io/tag/mpeg-2-ts/</link>
-      <atom:link href="safiqul.github.io/tag/mpeg-2-ts/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://safiqul.github.io/tag/mpeg-2-ts/</link>
+      <atom:link href="https://safiqul.github.io/tag/mpeg-2-ts/index.xml" rel="self" type="application/rss+xml" />
     <description>MPEG-2 TS</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2010 09:14:44 +0100</lastBuildDate>
     <image>
-      <url>/safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>MPEG-2 TS</title>
-      <link>safiqul.github.io/tag/mpeg-2-ts/</link>
+      <link>https://safiqul.github.io/tag/mpeg-2-ts/</link>
     </image>
     
     <item>
       <title>A HTTP Streaming Video Server with Dynamic Advertisement Splicing</title>
-      <link>safiqul.github.io/publication/master-thesis/</link>
+      <link>https://safiqul.github.io/publication/master-thesis/</link>
       <pubDate>Mon, 01 Mar 2010 09:14:44 +0100</pubDate>
-      <guid>safiqul.github.io/publication/master-thesis/</guid>
+      <guid>https://safiqul.github.io/publication/master-thesis/</guid>
       <description></description>
     </item>
     

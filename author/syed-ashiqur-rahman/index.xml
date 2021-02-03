@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Syed Ashiqur Rahman | Safiqul Islam</title>
-    <link>safiqul.github.io/author/syed-ashiqur-rahman/</link>
-      <atom:link href="safiqul.github.io/author/syed-ashiqur-rahman/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://safiqul.github.io/author/syed-ashiqur-rahman/</link>
+      <atom:link href="https://safiqul.github.io/author/syed-ashiqur-rahman/index.xml" rel="self" type="application/rss+xml" />
     <description>Syed Ashiqur Rahman</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jun 2011 00:00:00 +0200</lastBuildDate>
     <image>
-      <url>/safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Syed Ashiqur Rahman</title>
-      <link>safiqul.github.io/author/syed-ashiqur-rahman/</link>
+      <link>https://safiqul.github.io/author/syed-ashiqur-rahman/</link>
     </image>
     
     <item>
       <title>A Hierarchical Overlay Design for Peer to Peer and SIP Integration</title>
-      <link>safiqul.github.io/publication/sip-2011/</link>
+      <link>https://safiqul.github.io/publication/sip-2011/</link>
       <pubDate>Mon, 06 Jun 2011 00:00:00 +0200</pubDate>
-      <guid>safiqul.github.io/publication/sip-2011/</guid>
+      <guid>https://safiqul.github.io/publication/sip-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anomaly intrusion detection system in wireless sensor networks: security threats and existing approaches</title>
-      <link>safiqul.github.io/publication/islam-2011-anomaly/</link>
+      <link>https://safiqul.github.io/publication/islam-2011-anomaly/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      <guid>safiqul.github.io/publication/islam-2011-anomaly/</guid>
+      <guid>https://safiqul.github.io/publication/islam-2011-anomaly/</guid>
       <description></description>
     </item>
     
