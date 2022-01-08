@@ -72,7 +72,12 @@ queue/pie.o queue/docsislink.o&lt;/li&gt;
       <link>https://safiqul.github.io/teaching/teaching/</link>
       <pubDate>Sun, 26 Jul 2020 22:05:56 +0200</pubDate>
       <guid>https://safiqul.github.io/teaching/teaching/</guid>
-      <description>&lt;p&gt;I teach the following courses at the Department of Informatics, University of Oslo. All my courses have official course websites which you can navigate by clicking on the course codes, starting with &lt;em&gt;IN&lt;/em&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I teach the following courses at the Department of Business and IT, University of South-Eastern Norway (USN).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.usn.no/studier/studie-og-emneplaner/#/emne/6118N_1_2022_V%c3%85R&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;6118N&lt;/a&gt; : eForretning og sosiale medier&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I teach the following courses at the Department of Informatics, University of Oslo. All my courses have official course websites which you can navigate by clicking on the course codes, starting with &lt;em&gt;IN&lt;/em&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.uio.no/studier/emner/matnat/ifi/IN5150/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IN5150&lt;/a&gt;  : Recent Advancements in Internet Protocols; also Ph.D. clone 
@@ -120,11 +125,13 @@ queue/pie.o queue/docsislink.o&lt;/li&gt;
       <link>https://safiqul.github.io/teaching/supervision/</link>
       <pubDate>Sun, 26 Jul 2020 22:01:01 +0200</pubDate>
       <guid>https://safiqul.github.io/teaching/supervision/</guid>
-      <description>&lt;p&gt;Currently, I&amp;rsquo;m supervising three master theses:&lt;/p&gt;
+      <description>&lt;p&gt;Currently, I&amp;rsquo;m supervising five master theses:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Tobias Fladby:  Managing Real-Time Video and Data Flows with Coupled Congestion Control Mechanism&lt;/li&gt;
 &lt;li&gt;Erlend Hapnes:  Can we control a TCP path?&lt;/li&gt;
 &lt;li&gt;Naima Noor:     (together with Professor Michael Welzl) - On the Predictability of the Deployment of Network Mechanisms&lt;/li&gt;
+&lt;li&gt;Christoffer Bjelke, Andreas Limi: Timer-based TCP (TBTCP)&lt;/li&gt;
+&lt;li&gt;Maximilian von Stephanides: Improving Internet Congestion Control with Packet Loss Prediction using Machine Learning&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt; Past master students &lt;/h4&gt;
 &lt;p&gt;I supervised the following master students:&lt;/p&gt;
