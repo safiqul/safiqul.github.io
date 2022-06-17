@@ -5,12 +5,20 @@
     <link>https://safiqul.github.io/author/stein-gjessing/</link>
       <atom:link href="https://safiqul.github.io/author/stein-gjessing/index.xml" rel="self" type="application/rss+xml" />
     <description>Stein Gjessing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Stein Gjessing</title>
       <link>https://safiqul.github.io/author/stein-gjessing/</link>
     </image>
+    
+    <item>
+      <title>Future Internet Congestion Control: The Diminishing Feedback Problem</title>
+      <link>https://safiqul.github.io/publication/safiqul-2022-commag/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0200</pubDate>
+      <guid>https://safiqul.github.io/publication/safiqul-2022-commag/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Coupled Congestion Control for RTP Media</title>
