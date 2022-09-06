@@ -5,7 +5,7 @@
     <link>https://safiqul.github.io/author/safiqul-islam/</link>
       <atom:link href="https://safiqul.github.io/author/safiqul-islam/index.xml" rel="self" type="application/rss+xml" />
     <description>Safiqul Islam</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Safiqul Islam</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Future Internet Congestion Control: The Diminishing Feedback Problem</title>
-      <link>https://safiqul.github.io/publication/safiqul-2022-commag/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0200</pubDate>
-      <guid>https://safiqul.github.io/publication/safiqul-2022-commag/</guid>
+      <title>Real-Life Implementation and Evaluation of Coupled Congestion Control for WebRTC Media and Data Flows</title>
+      <link>https://safiqul.github.io/publication/safiqul-2022-access-webrtc/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0200</pubDate>
+      <guid>https://safiqul.github.io/publication/safiqul-2022-access-webrtc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is It Really Necessary to Go Beyond a Fairness Metric for Next-Generation Congestion Control</title>
       <link>https://safiqul.github.io/publication/safiqul-2022-anrw/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0200</pubDate>
       <guid>https://safiqul.github.io/publication/safiqul-2022-anrw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future Internet Congestion Control: The Diminishing Feedback Problem</title>
+      <link>https://safiqul.github.io/publication/safiqul-2022-commag/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0200</pubDate>
+      <guid>https://safiqul.github.io/publication/safiqul-2022-commag/</guid>
       <description></description>
     </item>
     

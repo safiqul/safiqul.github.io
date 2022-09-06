@@ -33,7 +33,7 @@
   <meta name="description" content="">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://safiqul.github.io/publication/ccr-2021/">
+  <link rel="alternate" hreflang="en-us" href="https://safiqul.github.io/talk/anrw-2022/">
 
   
 
@@ -45,6 +45,9 @@
   
 
   
+  
+  
+  <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -185,9 +188,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -233,7 +236,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://safiqul.github.io/publication/ccr-2021/">
+  <link rel="canonical" href="https://safiqul.github.io/talk/anrw-2022/">
 
   
   
@@ -249,26 +252,23 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Safiqul Islam">
-  <meta property="og:url" content="https://safiqul.github.io/publication/ccr-2021/">
-  <meta property="og:title" content="Collaboration in the IETF: An Initial Analysis of Two Decades in Email Discussions | Safiqul Islam">
+  <meta property="og:url" content="https://safiqul.github.io/talk/anrw-2022/">
+  <meta property="og:title" content="Is It Really Necessary to Go Beyond a Fairness Metric for Next-Generation Congestion Control | Safiqul Islam">
   <meta property="og:description" content=""><meta property="og:image" content="https://safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2021-07-01T00:00:00&#43;02:00">
+      <meta property="article:published_time" content="2022-07-26T00:00:00&#43;02:00">
     
-    <meta property="article:modified_time" content="2021-07-01T00:00:00&#43;02:00">
+    <meta property="article:modified_time" content="2022-07-26T00:00:00&#43;02:00">
   
 
   
 
 
+
+  
     
-
-
-
-
-
 
 
 
@@ -276,37 +276,33 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://safiqul.github.io/publication/ccr-2021/"
+    "@id": "https://safiqul.github.io/talk/anrw-2022/"
   },
-  "headline": "Collaboration in the IETF: An Initial Analysis of Two Decades in Email Discussions",
+  "name": "Is It Really Necessary to Go Beyond a Fairness Metric for Next-Generation Congestion Control",
   
-  "datePublished": "2021-07-01T00:00:00+02:00",
-  "dateModified": "2021-07-01T00:00:00+02:00",
+  "location": {
+    "@type": "Place",
+    "name": "Philadelphia, USA "
+  },
   
-  "author": {
+  
+  "startDate": "2022-07-26T00:00:00+02:00",
+  
+  
+  "performer": {
     "@type": "Person",
-    "name": "Michael Welzl"
+    "name": "Safiqul Islam"
   },
   
-  "publisher": {
-    "@type": "Organization",
-    "name": "Safiqul Islam",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://safiqul.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
-    }
-  },
   "description": ""
 }
 </script>
 
   
 
-  
-
 
   
 
@@ -317,7 +313,7 @@
 
 
 
-  <title>Collaboration in the IETF: An Initial Analysis of Two Decades in Email Discussions | Safiqul Islam</title>
+  <title>Is It Really Necessary to Go Beyond a Fairness Metric for Next-Generation Congestion Control | Safiqul Islam</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -578,7 +574,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Collaboration in the IETF: An Initial Analysis of Two Decades in Email Discussions</h1>
+  <h1>Is It Really Necessary to Go Beyond a Fairness Metric for Next-Generation Congestion Control</h1>
 
   
 
@@ -590,25 +586,7 @@
 
   
   
-  
-  
-  <div>
-    
 
-  
-  <span >Michael Welzl</span>, <span >Stephan Oepen</span>, <span >Cezary Jaskula</span>, <span >Carsten Griwodz</span>, <span >Safiqul Islam</span>
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    July 2021
-  </span>
   
 
   
@@ -637,6 +615,55 @@
 
 
 
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://irtf.org/anrw/2022/slides-114-anrw-sessa-beyond-fairness.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://youtu.be/pJUbDZ78Lus?t=3601" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+</div>
 
 
   
@@ -647,19 +674,32 @@
   <div class="article-container">
 
     
+      <br>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            Jul 26, 2022 12:00 AM
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
 
     
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
           <div class="col-12 col-md-9">
             
-            
-            <a href="/publication/#2">
-              Journal article
-            </a>
+            ACM, IRTF, ISOC Applied Networking Research Workshop 2022 (ANRW 2022)
             
           </div>
         </div>
@@ -674,8 +714,9 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">ACM Computer Communication Review (CCR) 51(3) (editorial)</div>
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">Philadelphia, USA</div>
+          
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -685,116 +726,156 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"></div>
-
-    
-
-
-
-
-
-
-<div class="article-tags">
-  
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-    
-    
-
-
-
-
-
-  
-
-
-  
-    
-    
-
-
-
-
-
-  
-
-
-  
-    
-    
-
-
-
-
-
-  
-
-
-  
-    
-    
-
-
-
-
-
-  
-
-
-  
-    
-    
-
-
-
-
-
-  
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  <div class="article-widget content-widget-hr">
-    <h3>Related</h3>
-    <ul>
+    <div class="article-style">
       
-      <li><a href="/publication/safiqul-2022-access-webrtc/">Real-Life Implementation and Evaluation of Coupled Congestion Control for WebRTC Media and Data Flows</a></li>
+    </div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+    
+    
+    
       
-      <li><a href="/publication/safiqul-2022-commag/">Future Internet Congestion Control: The Diminishing Feedback Problem</a></li>
+    
+    
+    
+    <div class="media author-card content-widget-hr">
       
-      <li><a href="/publication/taps-2021/">Transport Services: A Modern API for an Adaptive Internet Transport Layer</a></li>
+        
+        <img class="avatar mr-3 avatar-circle" src="/author/safiqul-islam/avatar_huce75d86eef50b13f2c221b33da8a1904_24764_270x270_fill_q90_lanczos_center.jpg" alt="Safiqul Islam">
       
-      <li><a href="/publication/9161279/">Online Identification of Groups of Flows Sharing a Network Bottleneck</a></li>
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="https://safiqul.github.io/">Safiqul Islam</a></h5>
+        <h6 class="card-subtitle">Associate Professor</h6>
+        <p class="card-text">Safiqul Islam is an Associate Professor at University of South-Eastern Norway and University of Oslo, Norway. He received his Ph.D. from University of Oslo, advised by <a href="http://michawe.at.ifi.uio.no">Professor Michael Welzl</a> and <a href="https://www.mn.uio.no/ifi/english/people/aca/steing/index.html">Professor Stein Gjessing</a>, with two best paper awards. He has published several articles in high-ranked conferences and journals and his Ph.D. work was also in the top 4 at the 2018 IEEE/IFIP Network Operations and Management Symposium. He actively participated in two EU projects (NEAT and RITE) and was technical lead of an international project (“TCP-in- UDP”) with Huawei, China. He is active in the IETF and IRTF where he co-authored two RFCs. He has also contributed to designing the test-cases and congestion control algorithms in the IETF RMCAT working group.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
       
-    </ul>
-  </div>
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:safiqul.islam@usn.no" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://instagram.com/mithunme" target="_blank" rel="noopener">
+        <i class="fab fa-instagram"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=r4nOI6IAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/safiqul" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/files/cv.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   
 
 
