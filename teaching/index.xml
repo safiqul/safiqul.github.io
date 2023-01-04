@@ -17,24 +17,19 @@
       <link>https://safiqul.github.io/teaching/teaching/</link>
       <pubDate>Sun, 26 Jul 2020 22:05:56 +0200</pubDate>
       <guid>https://safiqul.github.io/teaching/teaching/</guid>
-      <description>&lt;p&gt;I teach the following courses at the Department of Business and IT, University of South-Eastern Norway (USN).&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.usn.no/studier/studie-og-emneplaner/#/emne/6118N_1_2022_V%c3%85R&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;6118N&lt;/a&gt; : eForretning og sosiale medier&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.usn.no/studier/studie-og-emneplaner/#/emne/WEB1100_1_2022_H%c3%98ST&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WEB1100&lt;/a&gt; : Webutvikling og HCI&lt;/li&gt;
-&lt;li&gt;[6022-1 22H Spesialpensum]&lt;/li&gt;
-&lt;/ul&gt;
+      <description>&lt;p&gt;I teach the following courses at the Department of Computer Science, Oslo Metropolitan University. All my courses have official course websites which you can navigate by clicking on the course codes, starting with &lt;em&gt;DATA&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;I teach the following courses at the Department of Informatics, University of Oslo. All my courses have official course websites which you can navigate by clicking on the course codes, starting with &lt;em&gt;IN&lt;/em&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.uio.no/studier/emner/matnat/ifi/IN5150/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IN5150&lt;/a&gt;  : Recent Advancements in Internet Protocols; also Ph.D. clone 
-&lt;a href=&#34;https://www.uio.no/studier/emner/matnat/ifi/IN5150/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IN9150&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.uio.no/studier/emner/matnat/ifi/IN3260/h22/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IN3280&lt;/a&gt; Bachelor Project&lt;/li&gt;
+&lt;a href=&#34;https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA2410/2022/H%c3%98ST&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DATA2410&lt;/a&gt;: Networking and cloud computing)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt; Past courses &lt;/h4&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;I taught the following courses at the Department of Business and IT, University of South-Eastern Norway (USN). 
+&lt;a href=&#34;https://www.usn.no/studier/studie-og-emneplaner/#/emne/6118N_1_2022_V%c3%85R&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;6118N&lt;/a&gt; : eForretning og sosiale medier,
+&lt;a href=&#34;https://www.usn.no/studier/studie-og-emneplaner/#/emne/WEB1100_1_2022_H%c3%98ST&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WEB1100&lt;/a&gt; : Webutvikling og HCI, and [6022-1 22H Spesialpensum].&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;I was the course coordinator and teaching assistant  for 
 &lt;a href=&#34;https://www.uio.no/studier/emner/matnat/ifi/INF1060/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INF1060&lt;/a&gt; : introduction to operating systems and data communications course from 2013 - 2016 at the Dept. of Informatics, Univ. of Oslo.&lt;/p&gt;
@@ -56,18 +51,19 @@
       <link>https://safiqul.github.io/teaching/supervision/</link>
       <pubDate>Sun, 26 Jul 2020 22:01:01 +0200</pubDate>
       <guid>https://safiqul.github.io/teaching/supervision/</guid>
-      <description>&lt;p&gt;Currently, I&amp;rsquo;m supervising five master theses:&lt;/p&gt;
+      <description>&lt;p&gt;Currently, I&amp;rsquo;m supervising four master theses:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Tobias Fladby:  Managing Real-Time Video and Data Flows with Coupled Congestion Control Mechanism&lt;/li&gt;
-&lt;li&gt;Erlend Hapnes:  Can we control a TCP path?&lt;/li&gt;
-&lt;li&gt;Naima Noor:     (together with Professor Michael Welzl) - On the Predictability of the Deployment of Network Mechanisms&lt;/li&gt;
-&lt;li&gt;Christoffer Bjelke, Andreas Limi: Timer-based TCP (TBTCP)&lt;/li&gt;
-&lt;li&gt;Maximilian von Stephanides: Improving Internet Congestion Control with Packet Loss Prediction using Machine Learning&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Erlend Hapnes&lt;/em&gt;:  Can we control a TCP path?&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Christoffer Bjelke&lt;/em&gt;, &lt;em&gt;Andreas Limi&lt;/em&gt;: Timer-based TCP (TBTCP)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Maximilian von Stephanides&lt;/em&gt;: Improving Internet Congestion Control with Packet Loss Prediction using Machine Learning&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Shahed Shuvo&lt;/em&gt;: Detecting signs of congestion or underload in traffic traces&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt; Past master students &lt;/h4&gt;
 &lt;p&gt;I supervised the following master students:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Kristian Andreas Hiorth&lt;/em&gt;, together with Professor Michael Welzl, 
+&lt;li&gt;&lt;em&gt;Naima Noor&lt;/em&gt;: On the Predictability of the Deployment of Network Mechanisms&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Tobias Fladby&lt;/em&gt;:  Managing Real-Time Video and Data Flows with Coupled Congestion Control Mechanism&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kristian Andreas Hiorth&lt;/em&gt;, 
 &lt;a href=&#34;https://www.duo.uio.no/handle/10852/51926?show=full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCP-in-UDP: Enabling gradually deployable TCP coupled congestion control using an efficient UDP encapsulation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I also provided unofficial support/supervision to the following students:&lt;/p&gt;
